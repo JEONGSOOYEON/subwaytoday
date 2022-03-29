@@ -13,7 +13,7 @@
 + March 2, 2022 ~ March 18, 2022
 
 
-### 👥 Memeber
+### 👥 Member
 + 정수연(Team Leader, Backend)
 + 진혜주(Backend)
 + 김다원(Backend, Frontend)
